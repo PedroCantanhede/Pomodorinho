@@ -48,7 +48,7 @@ Esse aplicativo foi desenvolvido na disciplina de desenvolvimento de aplicativos
 
 ## :camera: Veja:
 
-### Mobile (Responsividade)
+### App
 
 ![GIF](./github/mobile.gif)
 ![GIF](./github/mobile2.gif)
@@ -75,3 +75,6 @@ $ npm start
 # Inicie o projeto no seu celular ou em um simulador via EXPO
 
 ```
+## 🧠 Layout
+
+Você pode visualizar o protótipo que fiz antes de desenvolver o Pomodorinho através [desse link](https://www.figma.com/file/Q4L431BYtLbvuqactgxeA1/Pomodoro?type=design&node-id=32%3A2&mode=design&t=oK0LIXbTH2CrfZrh-1).
